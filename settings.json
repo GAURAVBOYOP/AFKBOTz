@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "nl-01.freezehost.pro",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "nl-01.freezehost.pro",
+    "port": 9772,
     "version": "1.20.1",
     "try-creative": false
   },
