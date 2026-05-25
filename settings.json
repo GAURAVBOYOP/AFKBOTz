@@ -8,7 +8,7 @@
   "server": {
     "ip": "survival23.run.place",
     "port": 28227,
-    "version": "1.20.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "SoloPlayz"
     },
     "anti-afk": {
