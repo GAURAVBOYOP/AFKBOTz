@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "nl-01.freezehost.pro",
+    "username": "GAURAV NETWORK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "nl-01.freezehost.pro",
-    "port": 9772,
+    "ip": "eu1.freegamehost.xyz:28227",
+    "port": 28227,
     "version": "1.20.1",
     "try-creative": false
   },
